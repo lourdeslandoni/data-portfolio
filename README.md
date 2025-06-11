@@ -4,7 +4,7 @@
 
 **Licenciada en Ciencia y Tecnología de Alimentos (UBA)** con experiencia en **Investigación y Desarrollo** de alimentos nutracéuticos 🔬🍎, valorización de subproductos para la obtención de nuevos ingredientes ♻️💡, productos lácteos (con foco en leches fermentadas) 🥛🐄.
 
-**Analista de Datos** en formación 👩‍💻📊, con un creciente enfoque en el análisis de datos aplicado al área de alimentos 🍽️. Me interesa integrar herramientas como **Power BI**, **Python** y **Machine Learning** para generar visualizaciones claras, comprender fenómenos nutricionales y asesorar en el desarrollo de productos alimenticios.
+**Analista de Datos** en formación 👩‍💻📊, con foco en aplicaciones en el área de alimentos 🍽️. Me interesa integrar herramientas como **Power BI**, **Python** y **Machine Learning** para generar visualizaciones claras, comprender fenómenos nutricionales y asesorar en el desarrollo de productos alimenticios a emprendedores y empresas.
 
 🏢 **Instituto Nacional de Tecnologìa Industrial** (2017-Actualidad)
 
