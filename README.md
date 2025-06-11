@@ -1,6 +1,14 @@
-# 📊 Data Science Portfolio – [Lourdes Landoni]
+# Hola, soy Lourdes | Hi, I'm Lourdes 👩‍💻
 
-Welcome! I'm Lourdes Landoni, a Food Technologist and Researcher transitioning into Data Scientist. This portfolio showcases selected projects in Power BI, data analysis, and machine learning.
+📍 Argentina | 🍽 Ciencia de Datos aplicada a la Alimentación | 🧪 Investigación + Tecnología para Impacto
+
+**Analista de Datos** en formación, con experiencia en investigación y un creciente enfoque en el análisis de datos aplicado al área de alimentos. Me interesa integrar herramientas como **Power BI**, **Python** y **Machine Learning** para generar visualizaciones claras, comprender fenómenos nutricionales y asesorar en el desarrollo de productos alimenticios.
+
+🧠 Apasionada por aprender, conectar datos con impacto real, y traducir conocimientos científicos en soluciones prácticas.
+
+🚀 En camino hacia una carrera con foco en datos, innovación y salud pública.
+
+📬 ¡Estoy abierta a colaborar o conversar! 
 
 ## 🔹 Projects Overview
 
