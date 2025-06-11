@@ -25,9 +25,3 @@
 | [📈 Commercial Plant Based Products (USDA Food Database)](xxxx) | Excel, Power Query, DAX, Power BI | Dynamic dashboard that analyzes commercial plant-based products from the USA market, taking into account their nutritional profile, most relevant ingredients, and existing product subcategories - Source: [USDA Food Database](https://fdc.nal.usda.gov/food-search?type=Branded&query=plant%20based) |
 | [🤖 ML Project 1](https://colab.research.google.com/drive/1f2SlpYb-pEYbSML5PFCVI2G-MS9qQRi2?usp=sharing) | Google Colab, Python, Machine Learning | The goal is to estimate the number of people potentially affected by a given outbreak, based on the food type and location - Source: [CDC Dataset](https://www.kaggle.com/datasets/cdc/foodborne-diseases)|
 | [🔬 ML Project 2](https://colab.research.google.com/drive/1ITmdIvMsQxe2l6tvBB49sIxxJsZ5vQqg?usp=sharing) | Google Colab, Python, Machine Learning | The main objective is to develop a machine learning model capable of classifying commercial products (yogurts) based on their nutritional profile - Source: [USDA Food Database](https://fdc.nal.usda.gov/food-search?type=Branded&query=yogurt)|
-
-## 💡 About Me
-
-I'm currently working at INTI (National Institute of Industrial Technology, Argentina) where I apply data-driven approaches in Food Science. I’m passionate about transforming real-world problems into analytical solutions.
-
-📫 [LinkedIn](https://www.linkedin.com/in/lourdes-landonil) | [Email](lourdeslandoni@gmail.com)
