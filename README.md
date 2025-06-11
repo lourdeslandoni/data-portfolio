@@ -2,9 +2,9 @@
 
 📍 Argentina | 👩‍🔬📈 Ciencia de Datos aplicada a la Alimentación | 🧪 Investigación + Tecnología para Impacto
 
-**Licenciada en Ciencia y Tecnología de Alimentos (UBA)** con experiencia en **Investigación y Desarrollo** de alimentos nutracéuticos 🔬🍎, valorización de subproductos para la obtención de nuevos ingredientes ♻️💡, productos lácteos (con foco en leches fermentadas) 🥛🐄.
-
 **Analista de Datos** en formación 👩‍💻📊, con foco en aplicaciones en el área de alimentos 🍽️. Me interesa integrar herramientas como **Power BI**, **Python** y **Machine Learning** para generar visualizaciones claras, comprender fenómenos nutricionales y asesorar en el desarrollo de productos alimenticios a emprendedores y empresas.
+
+**Licenciada en Ciencia y Tecnología de Alimentos (UBA)** con experiencia en **Investigación y Desarrollo** de alimentos nutracéuticos 🔬🍎, valorización de subproductos para la obtención de nuevos ingredientes ♻️💡, productos lácteos (con foco en leches fermentadas) 🥛🐄.
 
 🏢 **Instituto Nacional de Tecnología Industrial** (2017-Actualidad)
 
