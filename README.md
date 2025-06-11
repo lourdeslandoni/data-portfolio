@@ -6,7 +6,7 @@
 
 **Analista de Datos** en formación 👩‍💻📊, con foco en aplicaciones en el área de alimentos 🍽️. Me interesa integrar herramientas como **Power BI**, **Python** y **Machine Learning** para generar visualizaciones claras, comprender fenómenos nutricionales y asesorar en el desarrollo de productos alimenticios a emprendedores y empresas.
 
-🏢 **Instituto Nacional de Tecnologìa Industrial** (2017-Actualidad)
+🏢 **Instituto Nacional de Tecnología Industrial** (2017-Actualidad)
 
 🧠 Apasionada por aprender, conectar datos con impacto real, y traducir conocimientos científicos en soluciones prácticas.
 
