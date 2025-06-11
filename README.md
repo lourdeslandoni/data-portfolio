@@ -1,14 +1,21 @@
 # Hola, soy Lourdes | Hi, I'm Lourdes 👩‍💻
 
-📍 Argentina | 🍽 Ciencia de Datos aplicada a la Alimentación | 🧪 Investigación + Tecnología para Impacto
+📍 Argentina | 👩‍🔬📈 Ciencia de Datos aplicada a la Alimentación | 🧪 Investigación + Tecnología para Impacto
 
-**Analista de Datos** en formación, con experiencia en investigación y un creciente enfoque en el análisis de datos aplicado al área de alimentos. Me interesa integrar herramientas como **Power BI**, **Python** y **Machine Learning** para generar visualizaciones claras, comprender fenómenos nutricionales y asesorar en el desarrollo de productos alimenticios.
+**Licenciada en Ciencia y Tecnología de Alimentos (UBA)** con experiencia en **Investigación y Desarrollo** de alimentos nutracéuticos 🔬🍎, valorización de subproductos para la obtención de nuevos ingredientes ♻️💡, productos lácteos (con foco en leches fermentadas) 🥛🐄.
+
+**Analista de Datos** en formación 👩‍💻📊, con un creciente enfoque en el análisis de datos aplicado al área de alimentos 🍽️. Me interesa integrar herramientas como **Power BI**, **Python** y **Machine Learning** para generar visualizaciones claras, comprender fenómenos nutricionales y asesorar en el desarrollo de productos alimenticios.
+
+🏢 **Instituto Nacional de Tecnologìa Industrial** (2017-Actualidad)
 
 🧠 Apasionada por aprender, conectar datos con impacto real, y traducir conocimientos científicos en soluciones prácticas.
 
 🚀 En camino hacia una carrera con foco en datos, innovación y salud pública.
 
 📬 ¡Estoy abierta a colaborar o conversar! 
+- 📧 [Email](lourdeslandoni@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lourdes-landoni/)
+- 📃 [Research Gate](https://www.researchgate.net/profile/Lourdes-Landoni)
 
 ## 🔹 Projects Overview
 
