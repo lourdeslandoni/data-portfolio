@@ -6,9 +6,10 @@ Welcome! I'm Lourdes Landoni, a Food Technologist and Researcher transitioning i
 
 | Project | Tools | Description |
 |--------|-------|-------------|
-| [📈 Power BI Dashboards](https://github.com/lourdeslandoni/encuesta-nutri-fao-2013) | Power BI | Dashboards with business-oriented and food science data |
-| [🤖 ML Project 1](./google-colab-projects/project-1/README.md) | Python, Colab | [xxxx] |
-| [🔬 ML Project 2](./google-colab-projects/project-2/README.md) | Python, Colab | [xxxx] |
+| [📈 FAO/WHO Nutritional Survey Results (Rosario-Argentina, 2013) ](https://github.com/lourdeslandoni/encuesta-nutri-fao-2013) | Power BI | Dashboards with business-oriented and food science data |
+| [📈 Commercial Plant Based Products (USDA Food Database)](xxxx) | Power BI | Dashboards with business-oriented and food science data |
+| [🤖 ML Project 1](https://colab.research.google.com/drive/1f2SlpYb-pEYbSML5PFCVI2G-MS9qQRi2?usp=sharing) | Python, Colab | [xxxx] |
+| [🔬 ML Project 2](https://colab.research.google.com/drive/1ITmdIvMsQxe2l6tvBB49sIxxJsZ5vQqg?usp=sharing) | Python, Colab | [xxxx] |
 
 ## 💡 About Me
 
