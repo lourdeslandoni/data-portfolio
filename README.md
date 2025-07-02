@@ -1,8 +1,8 @@
 # Hola, soy Lourdes | Hi, I'm Lourdes 👩‍💻
-
+(ES)
 📍 Argentina | 👩‍🔬📈 Ciencia de Datos aplicada a la Alimentación | 🧪 Investigación + Tecnología para Impacto
 
-**Analista de Datos** en formación 👩‍💻📊, con foco en aplicaciones en el área de alimentos 🍽️. Me interesa integrar herramientas como **Power BI**, **Python** y **Machine Learning** para generar visualizaciones claras, comprender fenómenos nutricionales y asesorar en el desarrollo de productos alimenticios a emprendedores y empresas.
+**Científica de Datos** en formación 👩‍💻📊, con foco en aplicaciones en el área de alimentos 🍽️. Me interesa integrar herramientas como **Power BI**, **Python** y **Machine Learning** para generar visualizaciones claras, comprender fenómenos nutricionales y asesorar en el desarrollo de productos alimenticios a emprendedores y empresas.
 
 **Licenciada en Ciencia y Tecnología de Alimentos (UBA)** con experiencia en **Investigación y Desarrollo** de alimentos nutracéuticos 🔬🍎, valorización de subproductos para la obtención de nuevos ingredientes ♻️💡, productos lácteos (con foco en leches fermentadas) 🥛🐄.
 
@@ -13,6 +13,21 @@
 🚀 En camino hacia una carrera con foco en datos, innovación y salud pública.
 
 📬 ¡Estoy abierta a colaborar o conversar! 
+__________________________________________________________________________________________________________________________________________________________________________________________(EN)
+📍 Argentina | 👩‍🔬📈 Data Science Applied to Food | 🧪 Research + Technology for Impact
+
+**Data Scientist** in training 👩‍💻📊, focusing on applications in the food sector 🍽️. I am interested in integrating tools such as **Power BI**, **Python**, and **Machine Learning** to generate clear visualizations, understand nutritional phenomena, and advise entrepreneurs and companies on food product development.
+
+**Graduate in Food Science and Technology (UBA)** with experience in **R&D** of nutraceutical foods 🔬🍎, valorization of byproducts to obtain new ingredients ♻️💡, and dairy products (with a focus on fermented milks) 🥛🐄.
+
+🏢 **National Institute of Industrial Technology** (2017-Present)
+
+🧠 Passionate about learning, connecting data with real impact, and translating scientific knowledge into practical solutions.
+
+🚀 On the path to a career focused on data, innovation, and public health.
+
+📬 I'm open to collaboration or conversation!
+
 - 📧 [Email](lourdeslandoni@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/lourdes-landoni/)
 - 📃 [Research Gate](https://www.researchgate.net/profile/Lourdes-Landoni)
