@@ -13,7 +13,8 @@
 🚀 En camino hacia una carrera con foco en datos, innovación y salud pública.
 
 📬 ¡Estoy abierta a colaborar o conversar! 
-__________________________________________________________________________________________________________________________________________________________________________________________(EN)
+________________________________________________________________________________________________________________________________________________________
+(EN)
 📍 Argentina | 👩‍🔬📈 Data Science Applied to Food | 🧪 Research + Technology for Impact
 
 **Data Scientist** in training 👩‍💻📊, focusing on applications in the food sector 🍽️. I am interested in integrating tools such as **Power BI**, **Python**, and **Machine Learning** to generate clear visualizations, understand nutritional phenomena, and advise entrepreneurs and companies on food product development.
