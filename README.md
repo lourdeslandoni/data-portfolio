@@ -33,8 +33,9 @@ ________________________________________________________________________________
 - 💼 [LinkedIn](https://www.linkedin.com/in/lourdes-landoni/)
 - 📃 [Research Gate](https://www.researchgate.net/profile/Lourdes-Landoni)
 
-## 🔹 Projects Overview
+## 🔹 Resumen de Proyectos | Projects Overview
 
+(EN)
 | Project | Tools | Description |
 |--------|-------|-------------|
 | [📈 FAO/WHO Nutritional Survey Results (Rosario-Argentina, 2013) ](https://github.com/lourdeslandoni/encuesta-nutri-fao-2013) | Excel, Power Query, DAX, Power BI | This interactive Power BI dashboard presents results from the "First Study on the Nutritional Status and Eating Habits of the Adult Population in Rosario," conducted in Argentina in 2013 following FAO guidelines. The study surveyed 2,400 adults of various age groups, who reported everything they consumed the previous day. Source: [USDA Food Database](https://www.fao.org/gift-individual-food-consumption/data/en) |
