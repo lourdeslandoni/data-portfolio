@@ -1,6 +1,6 @@
 # Hola, soy Lourdes | Hi, I'm Lourdes 👩‍💻
 
-📍 Argentina | 👩‍🔬📈 Ciencia de Datos aplicada a la Alimentación | 🧪 Investigación + Tecnología para Impacto
+📍 Argentina | 👩‍🔬📈 Ciencia de Datos aplicada a Alimentos | 🧪 Investigación + Tecnología para Impacto
 
 **Científica de Datos** en formación 👩‍💻📊, con foco en aplicaciones en el área de alimentos 🍽️. Me interesa integrar herramientas como **Power BI**, **Python** y **Machine Learning** para generar visualizaciones claras, comprender fenómenos nutricionales y asesorar en el desarrollo de productos alimenticios a emprendedores y empresas.
 
